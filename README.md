@@ -1,6 +1,9 @@
 <img src="https://github.com/kumarohan0115/kumarohan0115/blob/5733917c17fa5c077616eb1df20ed2958b092a72/pc.svg"/>
 
 
+# Hi there 👋 , I'm Rohan Kumar
+![Profile views](https://gpvc.arturio.dev/kumarohan0115)  
+
 * 🎓 I'm currently a final year student at Greater Noida Institute of Technology, Greater Noida UttarPradesh India.
 * 📚 Currently learning How to become caring.
 * ⚡️ Understanding and practicing DSA everyday and learning New Technology .
