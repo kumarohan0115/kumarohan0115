@@ -25,6 +25,11 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-php-787CB5?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Mysql-00758f?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Jquery-0769ad?style=flat-square&logo=Jquery&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=CSS&logoColor=white" />
 </p>
 
 <br>
